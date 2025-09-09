@@ -1,0 +1,20 @@
+# -*- mode: gitignore; -*-
+
+# Ignorar archivos temporales de emacs
+\#*\#
+.\#*
+
+# Ignorar archivos org-mode
+.Org*
+.org* 
+
+# Ignorar archivos comprimidos, ejecutables y de estilo
+.zip
+.exe
+
+# Ignorar carpetas de cache de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar entorno virtual
+Impresion-Entorno/
